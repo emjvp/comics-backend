@@ -1,0 +1,3 @@
+interface DtoComicDetail {
+    urlComicDetail: string;
+}
